@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "satellite.js": "^7.0.1",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.16"
+  },
+  "name": "satellite_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
